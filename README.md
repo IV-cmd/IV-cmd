@@ -1,6 +1,6 @@
 ### Hey there, I'm Ilakkia 👋
 
-[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fiv-cmd.github.io%2Filakkia-visakan-portfolio%2F)](https://iv-cmd.github.io/ilakkia-visakan-portfolio/)
+[![Portfolio](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fiv-cmd.github.io%2F)](https://iv-cmd.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilakkia-visakan-k-7a464a44/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kanaprilla@gmail.com)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0004-4300-9053)
