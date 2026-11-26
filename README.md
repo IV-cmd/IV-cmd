@@ -9,20 +9,6 @@ I'm a **Software & DevOps Engineer at [CERN](https://home.cern/)** (ATLAS Experi
 
 Currently interested in **site reliability engineering** (SLOs, error budgets, incident response), **platform engineering** (Kubernetes, GitOps, IaC), and distributed systems & storage in C++. I prefer small, inspectable systems and honest measurements over broad claims.
 
-## Selected projects
-
-| Project | What it is | Tech |
-|---|---|---|
-| [distributed-object-store](https://github.com/IV-cmd/distributed-object-store) | Object store with MGM metadata, three-way replication, Reed-Solomon erasure coding, checksum verification and repair paths | C++20, gRPC |
-| [stateful-recovery-operator](https://github.com/IV-cmd/stateful-recovery-operator) | Kubernetes operator for StatefulSet snapshots, pod/node/volume recovery, node fencing, recovery metrics | Python, Kopf, CSI |
-| [storage-io-benchmark](https://github.com/IV-cmd/storage-io-benchmark) | Linux benchmark comparing buffered I/O, O_DIRECT and io_uring across latency, throughput, IOPS | C++20, Linux, io_uring |
-| [Databse-Monitoring-and-Recovery-System](https://github.com/IV-cmd/Databse-Monitoring-and-Recovery-System) | PostgreSQL monitoring and auto-recovery with FastAPI, Angular, Prometheus and Alertmanager | Python, Angular, PostgreSQL |
-| [ojs-editorial-dashboard](https://github.com/IV-cmd/ojs-editorial-dashboard) | Editorial analytics dashboard ingesting OJS REST data, with authenticated API, Prometheus metrics, Helm deployment | Laravel, Vue, MySQL, Helm |
-| [ojs-zenodo-deposit](https://github.com/IV-cmd/ojs-zenodo-deposit) | OJS plugin depositing published articles to Zenodo, linking DOIs back, retrying failed deposits | PHP, OJS, DOI |
-| [DBCostOps](https://github.com/IV-cmd/DBCostOps) | Database DevOps platform: Puppet-managed infrastructure, ELK analytics, cost-optimization workflows | Python, Puppet, PostgreSQL |
-
-More context and write-ups on [my portfolio](https://iv-cmd.github.io/ilakkia-visakan-portfolio/).
-
 ## Languages, Tools & Frameworks
 
 I used to have a long list of tech that I have experience in, but at this point, I feel quite tech agnostic. Learnt the basics, feel pretty comfortable applying them everywhere :)
